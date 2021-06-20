@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">A junior student from the Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsphprz&label=Profile%20views&color=0e75b6&style=flat" alt="jsphprz" /> </p>
+![Profile views](https://gpvc.arturio.dev/jsphprz)  
 
 - 📫 How to reach me **josephperez279@gmail.com**
 
@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsphprz&show_icons=true&locale=en&layout=compact" alt="jsphprz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsphprz&show_icons=true&locale=en" alt="jsphprz" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsphprz&show_icons=true)  
