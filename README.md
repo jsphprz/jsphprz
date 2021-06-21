@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **josephperez279@gmail.com**
 
-- ⚡ Fun fact **I like to play fps games**
+- ⚡ Fun fact: **I like to play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
