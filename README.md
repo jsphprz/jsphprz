@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">A junior student from the Philippines</h3>
+<h3 align="center">A senior student from the Philippines</h3>
 
 ![Profile views](https://gpvc.arturio.dev/jsphprz)  
 
 - 📫 How to reach me **josephperez279@gmail.com**
-
-- ⚡ Fun fact: **I like to play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
