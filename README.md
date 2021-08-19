@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/jsphprz)  
 
-- 📫 How to reach me **josephperez279@gmail.com**
+- 📫 E-mail: **josephperez279@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
