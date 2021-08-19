@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">A senior student from the Philippines</h3>
+<h3 align="center">A senior college student from the Philippines</h3>
 
 ![Profile views](https://gpvc.arturio.dev/jsphprz)  
 
