@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Joseph</h1>
+<h1 align="center">Hi <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>, I'm Joseph</h1>
 <h3 align="center">A senior college student from the Philippines</h3>
 
 ![Profile views](https://gpvc.arturio.dev/jsphprz)  
