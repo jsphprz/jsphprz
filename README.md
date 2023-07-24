@@ -3,7 +3,7 @@
   </a>, I'm Joseph</h1>
 <h3 align="center">A senior college student from the Philippines</h3>
 
-![Profile views](https://gpvc.arturio.dev/jsphprz)  
+![](https://komarev.com/ghpvc/?username=jsphprz&color=blueviolet)
 
 - 📫 E-mail: **josephperez279@gmail.com**
 
