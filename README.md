@@ -78,6 +78,13 @@ const joseph = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=jsphprz&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsphprz/jsphprz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsphprz/jsphprz/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jsphprz/jsphprz/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
